@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build REST APIs using FastAPI: routing, Pydantic models, and running with Uvicorn.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
