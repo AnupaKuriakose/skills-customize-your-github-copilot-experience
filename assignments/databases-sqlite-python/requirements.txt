@@ -1,0 +1,3 @@
+# Uses Python's built-in `sqlite3` module; no external packages required by default.
+# Optional: uncomment to use SQLAlchemy for ORM examples
+# SQLAlchemy>=2.0

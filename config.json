@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "databases-sqlite-python",
+      "title": "Databases & Persistence — SQLite with Python",
+      "description": "Intro to SQLite and persistence from Python: schema design and CRUD operations.",
+      "path": "assignments/databases-sqlite-python",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
